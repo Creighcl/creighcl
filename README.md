@@ -1,6 +1,4 @@
-<img align="center" width="96px" src="https://avatars.githubusercontent.com/u/27293513?s=96&v=4" />
-
-## Hello World, I'm Chris (he/him) 👋
+## Hello World! I'm Chris (he/him) 👋
 
 ### I'm a digital maker 😎
 -  Web technologies are the most fun
