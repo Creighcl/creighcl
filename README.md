@@ -1,16 +1,64 @@
-### Hi there 👋
+<img align="center" width="96px" src="https://avatars.githubusercontent.com/u/27293513?s=96&v=4" />
 
-<!--
-**Creighcl/creighcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World, I'm Chris (he/him) 👋
 
-Here are some ideas to get you started:
+### I'm a digital maker 😎
+-  Web technologies are the most fun
+-  I like crafting tools and solving problems
+-  I’m looking to contribute to open source but haven't found my spot (yet)
+-  I enjoy making video games, there's a lot to it
+-  Currently tackling challenges in the analytics space with the great people at Express Scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I touch grass 🥬
+- Devoted life partner for 12 short years
+- Father of four beautiful souls
+- Sometimes I code outside when the weather's nice
+
+
+### Game Jams! 🎮
+- [Play Boom Saloon](https://citizendevelopers.itch.io/boom-saloon) created in 72 hours for Geta Game Jam 12
+- [Play Bjorn to Dance](https://citizendevelopers.itch.io/bjorn-to-dance) created in 72 hours for Ludum Dare 47
+- [Play Death to Rites](https://citizendevelopers.itch.io/death-to-rites) created for Brackey's Game Jam 2021.1
+- [Play Ker'boblin Crunch](https://citizendevelopers.itch.io/kerboblin-crunch) created in 72 hours for ScoreSpace Jam #14
+
+### Socials 🤙
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br />
+
+### Toolbox
+
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Firebase" width="26px" src="https://github.com/github/explore/blob/main/topics/firebase/firebase.png?raw=true" />
+<img align="left" alt="Ansible" width="26px" src="https://github.com/github/explore/blob/main/topics/ansible/ansible.png" />
+<img align="left" alt="Jenkins" width="26px" src="https://github.com/github/explore/blob/main/topics/jenkins/jenkins.png?raw=true" />
+<img align="left" alt="Unity" width="26px" src="https://github.com/github/explore/blob/main/topics/unity/unity.png?raw=true" />
+<img align="left" alt="Vercel" width="26px" src="https://github.com/github/explore/blob/main/topics/vercel/vercel.png?raw=true" />
+<img align="left" alt="Mongo" width="26px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png?raw=true" />
+<img align="left" alt="PG" width="26px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png?raw=true" />
+<img align="left" alt="MSSQL" width="26px" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png?raw=true" />
+
+
+
+<br />
+<br />
+
+
+---
+
+[![creighcl's github stats](https://github-readme-stats.vercel.app/api?username=creighcl)](https://github.com/creighcl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creighcl&layout=compact)](https://github.com/creighcl/github-readme-stats)
+
+---
+
+
+[twitter]: https://twitter.com/creighcl
+[linkedin]: https://linkedin.com/in/creighcl
+[discord]: https://discordapp.com/users/BlakMaJik#7882
