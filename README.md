@@ -51,8 +51,8 @@
 
 ---
 
-[![creighcl's github stats](https://github-readme-stats.vercel.app/api?username=creighcl)](https://github.com/creighcl/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creighcl&layout=compact)](https://github.com/creighcl/github-readme-stats)
+[![creighcl's github stats](https://github-readme-stats.vercel.app/api?username=creighcl)](https://github-readme-stats.vercel.app/api?username=creighcl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creighcl&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=creighcl&layout=compact)
 
 ---
 
