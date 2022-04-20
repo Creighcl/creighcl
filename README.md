@@ -59,4 +59,4 @@
 
 [twitter]: https://twitter.com/creighcl
 [linkedin]: https://linkedin.com/in/creighcl
-[discord]: https://discordapp.com/users/BlakMaJik#7882
+[discord]: https://discordapp.com/users/creighcl#1854
