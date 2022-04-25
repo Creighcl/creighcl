@@ -18,8 +18,9 @@
 
 ### Game Jams! 🎮
 - [Play Keeping the Faith](https://creighcl.itch.io/keeping-the-faith) solo 1 week Game Jam. Pencil+Paper Art, Mix 2d/3d
+- [Play Planty's Day Out](https://creighcl.itch.io/plantydayout) created in 72 hours for Ludum Dare 46 "Keep it Alive"
 - [Play Boom Saloon](https://citizendevelopers.itch.io/boom-saloon) created in 72 hours for Geta Game Jam 12
-- [Play Bjorn to Dance](https://citizendevelopers.itch.io/bjorn-to-dance) created in 72 hours for Ludum Dare 47
+- [Play Bjorn to Dance](https://citizendevelopers.itch.io/bjorn-to-dance) created in 72 hours for Ludum Dare 47 "Stuck in a Loop"
 - [Play Death to Rites](https://citizendevelopers.itch.io/death-to-rites) created for Brackey's Game Jam 2021.1
 - [Play Ker'boblin Crunch](https://citizendevelopers.itch.io/kerboblin-crunch) created in 72 hours for ScoreSpace Jam #14
 
