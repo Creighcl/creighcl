@@ -13,6 +13,9 @@
 - Sometimes I code outside when the weather's nice
 
 
+### Apps
+- [Infamy.dev](https://infamy.dev) free leaderboard service to bake in leaderboards to your game jam games
+
 ### Game Jams! 🎮
 - [Play Boom Saloon](https://citizendevelopers.itch.io/boom-saloon) created in 72 hours for Geta Game Jam 12
 - [Play Bjorn to Dance](https://citizendevelopers.itch.io/bjorn-to-dance) created in 72 hours for Ludum Dare 47
