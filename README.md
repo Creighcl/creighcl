@@ -25,7 +25,7 @@
 - [Play Ker'boblin Crunch](https://citizendevelopers.itch.io/kerboblin-crunch) created in 72 hours for ScoreSpace Jam #14
 
 ### Sneak Peak 
-[https://citizendevelopers.itch.io/untitled-game-01](current dev build) - Cloning Dungeon Raid using Ker'boblin Crunch
+[Current Dev Build](https://citizendevelopers.itch.io/untitled-game-01) - Cloning Dungeon Raid using Ker'boblin Crunch
 
 ### Socials 🤙
 
