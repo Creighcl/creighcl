@@ -17,6 +17,7 @@
 - [Infamy.dev](https://infamy.dev) free leaderboard service to bake in leaderboards to your game jam games
 
 ### Game Jams! 🎮
+- [Play Keeping the Faith](https://creighcl.itch.io/keeping-the-faith) solo 1 week Game Jam. Pencil+Paper Art, Mix 2d/3d
 - [Play Boom Saloon](https://citizendevelopers.itch.io/boom-saloon) created in 72 hours for Geta Game Jam 12
 - [Play Bjorn to Dance](https://citizendevelopers.itch.io/bjorn-to-dance) created in 72 hours for Ludum Dare 47
 - [Play Death to Rites](https://citizendevelopers.itch.io/death-to-rites) created for Brackey's Game Jam 2021.1
