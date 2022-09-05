@@ -1,10 +1,10 @@
 ## Hello World! I'm Chris (he/him) 👋
 
 ### I'm a digital maker 😎
--  Web technologies are the most fun
+-  Mostly spending my time building for the cloud lately (AWS)
 -  I like crafting tools and solving problems
--  I’m looking to contribute to open source but haven't found my spot (yet)
--  I enjoy making video games, there's a lot to it
+-  I enjoy making video games and web applications
+-  Focused on code craftsmanship, learning quickly by failing often, and keeping my AWS bill as low as possible
 -  Currently tackling challenges in the analytics space with the great people at Express Scripts
 
 ### I touch grass 🥬
@@ -15,6 +15,7 @@
 
 ### Apps
 - [Infamy.dev](https://infamy.dev) free leaderboard service to bake in leaderboards to your game jam games
+- [Dungeoneer.io](https://dungeoneer.io) Blizzard Entertainment community website
 
 ### Game Jams! 🎮
 - [Play Keeping the Faith](https://creighcl.itch.io/keeping-the-faith) solo 1 week Game Jam. Pencil+Paper Art, Mix 2d/3d
@@ -24,8 +25,6 @@
 - [Play Death to Rites](https://citizendevelopers.itch.io/death-to-rites) created for Brackey's Game Jam 2021.1
 - [Play Ker'boblin Crunch](https://citizendevelopers.itch.io/kerboblin-crunch) created in 72 hours for ScoreSpace Jam #14
 
-### Sneak Peak 
-[Current Dev Build](https://citizendevelopers.itch.io/untitled-game-01) - Cloning Dungeon Raid using Ker'boblin Crunch
 
 ### Socials 🤙
 
