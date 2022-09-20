@@ -5,7 +5,7 @@
 -  I like crafting tools and solving problems
 -  I enjoy making video games and web applications
 -  Focused on code craftsmanship, learning quickly by failing often, and keeping my AWS bill as low as possible
--  Currently tackling challenges in the analytics space with the great people at Express Scripts
+-  Professionally: I'm tackling challenges in the analytics space with the great people at Express Scripts
 
 ### I touch grass 🥬
 - Devoted life partner for 12 short years
@@ -13,17 +13,36 @@
 - Sometimes I code outside when the weather's nice
 
 
-### Apps
-- [Infamy.dev](https://infamy.dev) free leaderboard service to bake in leaderboards to your game jam games
+### Hobby Apps
+- [Infamy.dev](https://infamy.dev) free leaderboard service endpoints to bake leaderboards into your game jam games
+  - [Code](https://github.com/Creighcl/infamy-dev) is public
+  - Written with React and Google Firebase
 - [Dungeoneer.io](https://dungeoneer.io) Blizzard Entertainment community website
+  - [Code](https://github.com/dungeoneer-io) is all public
+  - Written with NodeJS, React, MongoDB, DynamoDB on AWS
 
 ### Game Jams! 🎮
 - [Play Keeping the Faith](https://creighcl.itch.io/keeping-the-faith) solo 1 week Game Jam. Pencil+Paper Art, Mix 2d/3d
-- [Play Planty's Day Out](https://creighcl.itch.io/plantydayout) created in 72 hours for Ludum Dare 46 "Keep it Alive"
+  - [Code](https://github.com/Creighcl/KeepTheFaithPOC) is public
+  - Written with C#/Unity
+- [Play Planty's Day Out](https://creighcl.itch.io/plantydayout) team created in 72 hours for Ludum Dare 46 "Keep it Alive"
+  - [Code](https://github.com/CitDev-io/citdev-ludum-46) is public
+  - Written with C#/Unity
+  - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
 - [Play Boom Saloon](https://citizendevelopers.itch.io/boom-saloon) created in 72 hours for Geta Game Jam 12
-- [Play Bjorn to Dance](https://citizendevelopers.itch.io/bjorn-to-dance) created in 72 hours for Ludum Dare 47 "Stuck in a Loop"
-- [Play Death to Rites](https://citizendevelopers.itch.io/death-to-rites) created for Brackey's Game Jam 2021.1
-- [Play Ker'boblin Crunch](https://citizendevelopers.itch.io/kerboblin-crunch) created in 72 hours for ScoreSpace Jam #14
+  - [Code](https://github.com/CitDev-io/geta-jam-12-boom-saloon) is public
+  - Written with C#/Unity
+  - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
+- [Play Bjorn to Dance](https://citizendevelopers.itch.io/bjorn-to-dance) team created in 72 hours for Ludum Dare 47 "Stuck in a Loop"
+  - Written with C#/Unity
+  - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
+- [Play Death to Rites](https://citizendevelopers.itch.io/death-to-rites) team created for Brackey's Game Jam 2021.1
+  - [Code](https://github.com/CitDev-io/code-game-scorespace-14) is public
+  - Written with C#/Unity
+  - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
+- [Play Ker'boblin Crunch](https://citizendevelopers.itch.io/kerboblin-crunch) team created in 72 hours for ScoreSpace Jam #14
+  - Written with C#/Unity
+  - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
 
 
 ### Socials 🤙
