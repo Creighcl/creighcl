@@ -47,6 +47,7 @@
   - Written with C#/Unity
   - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
 - [Play Suns, Moons, & Boons](https://citizendevelopers.itch.io/game-off-2023) team created in **30 days** for Game Off 2023
+  - [Code](https://github.com/CitDev-io/game-off-2023) is public
   - Written with C#/Unity
   - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
 
