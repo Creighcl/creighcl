@@ -8,7 +8,7 @@
 -  Professionally: I'm tackling challenges in the analytics space with the great people at Express Scripts
 
 ### I touch grass 🥬
-- Devoted life partner for 12 short years
+- Devoted life partner for 14 short years
 - Father of four beautiful souls
 - Sometimes I code outside when the weather's nice
 
@@ -43,6 +43,13 @@
 - [Play Ker'boblin Crunch](https://citizendevelopers.itch.io/kerboblin-crunch) team created in 72 hours for ScoreSpace Jam #14
   - Written with C#/Unity
   - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
+- [Play Shushbuckler](https://citizendevelopers.itch.io/shushbuckler) team created in 72 hours for ScoreSpace Jam #25
+  - Written with C#/Unity
+  - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
+- [Play Suns, Moons, & Boons](https://citizendevelopers.itch.io/game-off-2023) team created in **30 days** for Game Off 2023
+  - Written with C#/Unity
+  - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
+
 
 
 ### Socials 🤙
