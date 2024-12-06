@@ -1,7 +1,7 @@
 ## Hello World! I'm Chris (he/him) 👋
 
 ### I'm a digital maker 😎
--  Mostly spending my time building for the cloud lately (AWS)
+-  Mostly spending my time building for the cloud lately
 -  I like crafting tools and solving problems
 -  I enjoy making video games and web applications
 -  Focused on code craftsmanship, learning quickly by failing often, and keeping my AWS bill as low as possible
@@ -17,7 +17,7 @@
 - [Infamy.dev](https://infamy.dev) free leaderboard service endpoints to bake leaderboards into your game jam games
   - [Code](https://github.com/Creighcl/infamy-dev) is public
   - Written with React and Google Firebase
-- [Dungeoneer.io](https://dungeoneer.io) Blizzard Entertainment community website
+- Dungeoneer: Blizzard Entertainment community website
   - [Code](https://github.com/dungeoneer-io) is all public
   - Written with NodeJS, React, MongoDB, DynamoDB on AWS
 
@@ -47,6 +47,10 @@
   - Written with C#/Unity
   - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
 - [Play Suns, Moons, & Boons](https://citizendevelopers.itch.io/game-off-2023) team created in **30 days** for Game Off 2023
+  - [Code](https://github.com/CitDev-io/game-off-2023) is public
+  - Written with C#/Unity
+  - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
+- [Play Star Shaper](https://citizendevelopers.itch.io/star-shaper) team created in **30 days** for Game Off 2024
   - [Code](https://github.com/CitDev-io/game-off-2023) is public
   - Written with C#/Unity
   - Collaboration Project for the [Citizen Developer Jammers](https://github.com/orgs/CitDev-io/teams/jammers)
